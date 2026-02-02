@@ -1,0 +1,2 @@
+torch torchvision --index-url https://download.pytorch.org/whl/cpu
+scipy>=1.8.0
